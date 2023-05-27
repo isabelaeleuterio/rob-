@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/robotron-2000-projeto_inicial/css"
+		},
+		{
+			"path": "../../Downloads/robotron-2000-projeto_inicial/img"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
